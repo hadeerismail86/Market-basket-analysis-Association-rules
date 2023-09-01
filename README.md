@@ -1,1 +1,2 @@
 # Market-basket-analysis-Association-rules
+For my Data Mining lab where we had to execute algorithms like apriori, it was very difficult to get a small data set with only a few transactions. It was infeasible to run the algorithm with datasets containing over 10000 transactions. This dataset contains 11 items : JAM, MAGGI, SUGAR, COFFEE, CHEESE, TEA, BOURNVITA, CORNFLAKES, BREAD, BISCUIT and MILK.
